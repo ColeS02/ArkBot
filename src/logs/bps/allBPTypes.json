@@ -1,0 +1,78 @@
+﻿[
+  {
+    "name": "Flak Helmet",
+    "value": "FlakHelmet"
+  },
+  {
+    "name": "Flak Chestplate",
+    "value": "FlakChestplate"
+  },
+  {
+    "name": "Flak Leggings",
+    "value": "FlakLeggings"
+  },
+  {
+    "name": "Flak Boots",
+    "value": "FlakBoots"
+  },
+  {
+    "name": "Flak Gauntlets",
+    "value": "FlakGauntlets"
+  },
+  {
+    "name": "Shotgun",
+    "value": "Shotgun"
+  },
+  {
+    "name": "Fabricated Sniper",
+    "value": "FabricatedSniper"
+  },
+  {
+    "name": "Crossbow",
+    "value": "Crossbow"
+  },
+  {
+    "name": "Compound Bow",
+    "value": "CompoundBow"
+  },
+  {
+    "name": "Rex Saddle",
+    "value": "RexSaddle"
+  },
+  {
+    "name": "GigaSaddle",
+    "value": "GigaSaddle"
+  },
+  {
+    "name": "Carb Saddle",
+    "value": "CarbSaddle"
+  },
+  {
+    "name": "Anky Saddle",
+    "value": "AnkySaddle"
+  },
+  {
+    "name": "Daeodon Saddle",
+    "value": "DaeodonSaddle"
+  },
+  {
+    "name": "Basilo Saddle",
+    "value": "BasiloSaddle"
+  },
+  {
+    "name": "Arge Saddle",
+    "value": "ArgeSaddle"
+  },
+  {
+    "name": "BrontoSaddle",
+    "value": "BrontoSaddle"
+  },
+  {
+    "name": "Stego Saddle",
+    "value": "StegoSaddle"
+  },
+  {
+    "name": "Carno Saddle",
+    "value": "CarnoSaddle"
+  }
+]
